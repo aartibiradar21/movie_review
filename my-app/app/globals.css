@@ -1,0 +1,176 @@
+
+
+body{
+background-color:pink;
+
+
+}
+
+.row{
+border:1px solid red;
+height:28px;
+}
+.row2{
+border:1px solid red;
+height:72px;
+}
+.row3{
+border:1px solid red;
+height:28px;
+}
+.row4{
+border:1px solid red;
+height:40px;
+}
+.row5{
+border:1px solid red;
+height:30px;
+}
+
+.col1{
+    float:left;
+    border:solid 2px red;
+    height:70px;
+    width:72px;
+    margin-left:35px;
+}
+.col2{
+    float:left;
+    border:solid 2px red;
+    height:48px;
+    width:103px;
+    margin-left:20px;
+    margin-top:10px;
+   
+}
+.col3{
+    float:right;
+    border:solid 2px red;
+    height:30px;
+    width:105px;
+    margin-right:35px;
+    line-height:0px;
+    margin-top:30px;
+   
+   
+}
+.col4{
+    float:right;
+    border:solid 2px red;
+    height:30px;
+    width:60px;
+    margin-right:35px;
+    Line-height:0px;
+    margin-top:30px;
+    size:20px
+}
+.col51{
+    float:left;
+    border:solid 2px red;
+    height:28px;
+    width:56px;
+    margin-left:120px;
+    line-height:0px;
+
+}
+.header{
+	border:solid 2px red;
+	height:350px;
+	margin-left:155px;
+	margin-right:155px;
+}
+.img_row{
+	border:solid 2px red;
+	height:300px;
+	width:239px;
+}
+
+
+.movierow{
+	border:solid red 1px;
+	height:400px;
+	width:1200px;
+	margin:0px auto;	
+}
+.image{
+	border:solid red 1px;
+	width:263px;
+	height:380px;
+	float:left;
+	 
+}
+.action{
+	border:solid red 1px;
+	height:300px;
+	width:900px;
+	float:left;
+	margin-left:25px;
+}
+
+.like_row{
+	border:solid blue 1px;
+	height:70px;
+	width:900px;
+	float:right;
+	margin:10px;
+
+}
+.add_row{
+    border:1px solid blue;
+    height:300px;
+    width:auto;
+}
+.footer_row{
+    border:1px solid blue;
+    height:200px;
+    width:auto;
+}
+.footer_img{
+    border:1px solid blue;
+    height:50px;
+    width:auto;
+    margin-top:50px;
+}
+.like_col1{
+    height:67px;
+    width:70px;
+    border:1px solid green;
+
+}
+.dislike_col2{
+    border:1px solid green;
+    height:65px;
+    width:70px;
+    margin-left:140px;
+    margin-top:-62px;
+}
+.delete_col{
+    height:65px;
+    width:50px;
+    border:1px solid green;
+    float:right;
+    margin-top:-67px;
+    
+}
+.dot{
+    border-radius:50%;
+    height:45px;
+    width:45px;
+    display:inline-block;
+    margin-top:12px;
+    background-color:white;
+    margin-left:13px;
+    text-align:center;
+    
+
+}
+
+
+.dotRow{
+    height:65px;
+    width:70px;
+    margin-left:70px;
+    margin-top:-70px;
+  
+}
+
