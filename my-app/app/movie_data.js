@@ -121,6 +121,15 @@ const Movie_data = () => {
             const updatedMovies = movies.filter((movie) => movie.id !== id);
             setMovies(updatedMovies);
           };
+          
+          const sortedMovies = movies.sort((a, b) => {
+            const voteA = current[a.id] || 0;
+            const voteB = current[b.id] || 0;
+            return voteB - voteA;
+          
+          });
+
+
 
           
           return (
